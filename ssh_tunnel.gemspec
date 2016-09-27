@@ -5,7 +5,7 @@ require 'ssh_tunnel/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ssh_tunnel"
-  spec.version       = SshTunnel::VERSION
+  spec.version       = SSHTunnel::VERSION
   spec.authors       = ["Josh Bodah"]
   spec.email         = ["jb3689@yahoo.com"]
 

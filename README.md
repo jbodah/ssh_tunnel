@@ -1,4 +1,4 @@
-# SshTunnel
+# SSHTunnel
 
 a simple gem for creating SSH tunnels
 
